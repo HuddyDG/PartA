@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color:  #246f72;
+    color: oldlace;
+}
+
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
